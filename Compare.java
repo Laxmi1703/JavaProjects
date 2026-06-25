@@ -16,6 +16,6 @@ public class Compare {
         }else{
             System.out.println("'b' IS GREATER THAN 'a' !!");
         }
-     }
-    
+        sc.close();
+    }    
 }

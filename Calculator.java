@@ -44,7 +44,6 @@ public class Calculator {
         else{
             System.out.println("PLEASE CHOOSE VALID OPERATOR !");
         }
-
-    }
-    
+       sc.close();
+    } 
 }
