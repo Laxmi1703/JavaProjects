@@ -16,30 +16,18 @@ public class Calculator {
         }
         else if(ch == '-'){
             System.out.println("THE DIFFERENCE IS: ");
-            if(a > b){
-                System.out.println(a - b);
-            }else{
-                System.out.println(b - a);
-            }
+            System.out.println(a - b);
         }
         else if(ch == '*'){
             System.out.println("THE PRODUCT IS: " + (a*b));
         }
         else if(ch == '/'){
             System.out.println("THE QUOTIENT IS: ");
-            if(a > b){
                 System.out.println(a / b);
-            }else{
-                System.out.println(b / a);
-            }
         }
         else if(ch == '%'){
             System.out.println("THE REMAINDER IS: ");
-            if(a > b){
-                System.out.println(a % b);
-            }else{
-                System.out.println(b % a);
-            }
+            System.out.println(a % b);
         }
         else{
             System.out.println("PLEASE CHOOSE VALID OPERATOR !");
