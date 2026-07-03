@@ -1,64 +1,23 @@
-# Java Calculator
+# Java Projects
 
-A simple command-line calculator built using Java. The program allows users to perform basic arithmetic operations on two integers.
+This repository contains Java programs and projects that I build while learning Java.
 
-## Features
+## Programs
 
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-- Modulus (`%`)
-- Console-based user interaction
-- Invalid operator handling
+- Calculator
+- Binary to Decimal Converter
+- Decimal to Binary Converter
 
-## Technologies Used
+## Topics Covered
 
-- Java
-- Scanner Class (`java.util.Scanner`)
+- Variables
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Number System Conversion
 
-## How It Works
-
-1. Enter the first integer.
-2. Enter the second integer.
-3. Choose an operator from:
-   - `+`
-   - `-`
-   - `*`
-   - `/`
-   - `%`
-4. The program displays the result of the selected operation.
-
-## Example
-
-### Input
-
-```
-ENTER A VALUE FOR 'A'.
-15
-
-ENTER A VALUE FOR 'B'.
-4
-
-ENTER THE OPERATION YOU WANT TO PERFORM.
-CHOOSE FROM '+', '-', '*', '/','%'
-%
-```
-
-### Output
-
-```
-THE REMAINDER IS:
-3
-```
-
-## Learning Concepts
-
-This project demonstrates:
-- User input using `Scanner`
-- Conditional statements (`if-else`)
-- Arithmetic operators
-- Basic Java program structure
+I will keep updating this repository as I learn more Java.
 
 ## Author
 Laxmi
