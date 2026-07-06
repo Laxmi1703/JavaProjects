@@ -7,7 +7,8 @@ This repository contains Java programs and projects that I build while learning 
 - Calculator
 - Binary to Decimal Converter
 - Decimal to Binary Converter
-
+- Roman to Integer Converter
+  
 ## Topics Covered
 
 - Variables
