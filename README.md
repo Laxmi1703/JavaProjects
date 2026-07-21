@@ -8,6 +8,7 @@ This repository contains Java programs and projects that I build while learning 
 - Binary to Decimal Converter
 - Decimal to Binary Converter
 - Roman to Integer Converter
+- Array element remover
   
 ## Topics Covered
 
