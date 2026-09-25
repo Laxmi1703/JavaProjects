@@ -10,6 +10,7 @@ This repository contains Java programs and projects that I build while learning 
 - Roman to Integer Converter
 - Array element remover
 - Last digit plus one
+- Palindrome Checker
   
 ## Topics Covered
 
